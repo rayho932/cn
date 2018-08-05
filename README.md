@@ -1,2 +1,2 @@
-# rayho932.github.io
-Homepage for Raychain.cc
+# rayho932.github.io中文版
+Raychain.cc中文版网站
